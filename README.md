@@ -1,6 +1,6 @@
-# https-bkeyes86.github.io-learning-journal-
+# Day One
 
-## place to document learning
+## First Assignment
 
 ###### Lab 01b
 
