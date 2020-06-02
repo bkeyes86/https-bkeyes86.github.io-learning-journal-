@@ -11,9 +11,9 @@
 - [ ] bold
 - [x] italics
 
-# - [x] <h1> largest heading
-## - [x] <h2> second largest heading
-###### - [x] <h6> smallest heading 
+# - [x] <h1> largest heading #
+## - [x] <h2> second largest heading ##
+###### - [x] <h6> smallest heading ######
   
   You can make what kind of list with either of these - or *
   - [x] unordered 
@@ -22,7 +22,7 @@
   to quote text use
   * - [ ]
   $ - [ ]
-  > - [x]
+  > - [x] >
   
   Github supports
   - [ ] whales
