@@ -4,4 +4,4 @@ Table of Contents
 
 - [Learning Journal from Class One](/Read01LearningMarkdown.md)
 
-- [Learning Journal from Class Two](/computer.md)
+- [Learning Journal from Class Two](/Read02coderscomputer.md)
