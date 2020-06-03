@@ -4,6 +4,8 @@
 
 - [Learning Journal from Class Two](/Read02coderscomputer.md)
 
+- [Learning Journal from Class three](/Read03RC.md)
+
 - [Learning Journal from Class four](/Read04html.md)
 
 
