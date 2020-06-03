@@ -9,8 +9,8 @@
 - [x] true
 
 *Git is a dvcs?*
--[x] true
--[ ] false 
+- [x] true
+- [ ] false 
 
 *Files in Git can reside in three main states committed, modified, and staged?*
 - [ ] false
