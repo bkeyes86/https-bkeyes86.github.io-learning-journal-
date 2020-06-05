@@ -19,3 +19,10 @@
 - [x] true
 - [ ] false
 
+*for Javascript you do not need any new tools to write a script?*
+- [x] true
+- [ ] false
+
+**A Javascript file is just a text file with .js file ext?**
+- [x] true
+- [ ] false
